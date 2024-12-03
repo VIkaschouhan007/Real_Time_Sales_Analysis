@@ -68,37 +68,9 @@ This project focuses on providing real-time sales insights for AtliQ Hardware, a
 - **MySQL**: As the database for storing sales records.
 - **ETL Processes**: For data extraction, transformation, and loading.
 
-## How to Use
 
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/yourusername/sales-insights-data-analysis.git
-   cd sales-insights-data-analysis
-   ```
+  
 
-2. **Set Up the Database**:
-   - Import the provided SQL file (`db_dump_version_2.sql`) into your MySQL database.
-
-3. **Connect Power BI**:
-   - Open Power BI Desktop.
-   - Connect to the MySQL database.
-   - Load the data and follow the steps in the project workflow to replicate the ETL and data cleaning processes.
-
-4. **Explore the Dashboard**:
-   - Use the interactive visualizations to gain insights into the sales data.
-   - Access the mobile version of the dashboard through the Power BI mobile application.
-
-## Conclusion
-
-This project demonstrates the entire lifecycle of a data analysis project, from planning and data discovery to ETL, data cleaning, and dashboard creation. It showcases the capabilities of Power BI in transforming raw data into actionable insights, supporting strategic decision-making in a competitive market.
-
-![key_insight](https://github.com/user-attachments/assets/a37598b5-4e22-476d-92aa-bf0b85c0b0fe)
-![performance](https://github.com/user-attachments/assets/d5b44a27-1cbc-46b6-92e1-546a9744dcbc)
-![profit analysis](https://github.com/user-attachments/assets/2f6468ed-ae67-40ba-a981-81c042632e6b)
-![mob_key](https://github.com/user-attachments/assets/f898c01b-28b7-456c-9115-5be07c2ede7a)
-![mob_key2](https://github.com/user-attachments/assets/4f5b4f10-08de-43d8-8545-d90eb70acdf6)
-![mob_perf](https://github.com/user-attachments/assets/cb3da931-ca4c-42f2-9642-94dc6bc803c6)
-![mob_profit](https://github.com/user-attachments/assets/2f739983-6990-42a0-8f7a-d6d218aa026b)
 
 
 
